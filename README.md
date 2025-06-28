@@ -20,8 +20,10 @@ Hi there, I'm Shaik Seema!
 ---
 
 ### 🚀 Roles & Impact
-
-#### 🔹 Skill Development Engineer @ Iamneo (2023–Present)
+#### 🔹 Technical Trainer @ Sreyas College of Engineering (2024 - 2025)
+- Upskilled 500+ students on Java, Python, DSA, Accenture training and Mphasis.
+- Working on content & L&D plans.
+#### 🔹 Skill Development Engineer @ Iamneo (2023)
 - Upskilled 1000+ students on Java, Python, DS, React, and DBMS
 - Mentored junior trainers and built structured content & L&D plans
 
